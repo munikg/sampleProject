@@ -7,6 +7,7 @@ public class AdditionOfArray {
 		int result = 0;
 		int add[] = { 10, 20, 30 };
 		System.out.println("Array Elemnts Are :");
+                System.out.println("Array Elemnts Are :");
 
 		for (int i = 0; i < add.length; i++) {
 			System.out.println(add[i]);
