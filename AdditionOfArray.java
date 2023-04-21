@@ -5,6 +5,7 @@ public class AdditionOfArray {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int result = 0;
+                int git=0;
 		int add[] = { 10, 20, 30 };
 		System.out.println("Array Elemnts Are :");
                 System.out.println("Array Elemnts Are :");
