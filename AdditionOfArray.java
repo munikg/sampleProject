@@ -18,7 +18,7 @@ public class AdditionOfArray {
 		System.out.println("Addition of Array elemnts:" + result);
 //		System.out.println("printing array elements using foreach :");
 //		for (int i : add) {
-//			System.out.println(i);
+//			System.out.println(i+"Hello");
 //		}
 	}
 
